@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Python Ping Script](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Reconaissance Tools (AlgoExpert)</b>
+  - [Python Ping Script](https://github.com/abishainurse/active-host-monitoring)
 
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Cisco Certified Cybersecurity Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Cisco Certified Cybersecurity Associate](https://www.credly.com/badges/7d169034-4d52-46e1-b1be-61aff374379b/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
