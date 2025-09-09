@@ -5,7 +5,7 @@
 - <b>Reconaissance Tools </b>
   - [Python Ping Script](https://github.com/abishainurse/active-host-monitoring)
 - <b>Cybersecurity Case Study </b>
-  - [Pushdo Trojan Analysis]()
+  - [Pushdo Trojan Analysis](https://github.com/abishainurse/pushdo-trojan-analysis)
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
